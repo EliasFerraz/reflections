@@ -1,0 +1,26 @@
+Anotações sobre as aulas de GIT
+
+1 - Como a visualização de um diff entre duas versões de um arquivo ajuda você a ver o bug que foi introduzido?
+	Comparar arquivos manualmente é trabalhoso ou impraticável, porém existem ferramentas que comparam arquivos e identificam onde houveram mudanças
+	No windows o comando: fc arquivo_antigo arquivo_novo
+	No MAC ou Linux o comando: diff arquivo_antigo arquivo_novo
+
+2 - Como ter fácil acesso a todo o histórico de um arquivo pode torná-lo um programador mais eficiente no longo prazo?
+	Saber quando e quais modificações no código foram realizadas facilita a manutenção de um software
+
+3 - Na sua opinião, quais são os prós e contras de escolher manualmente quando criar um commit, como ocorre no Git, v. o salvamento automático de versões, como no Google Docs?
+	Salvar manualmente permite escolher quando é relevante salvar as alterações e é possível descrevê-las, entretanto, se por acaso o programador vier a esquecer de realizar o salvamento antes de um problema ocorrer, o modo automático poderia ser uma funcionalidade útil.
+
+4 - Por que você acha que alguns sistemas de controle de versão, como o Git, permitem salvar vários arquivos em um commit, enquanto outros, como o Google Docs, tratam cada arquivo separadamente?
+	Porque é comum que arquivos de código estejam relacionados entre si, ou seja, um modificação em um poderá afetar outro, o que não ocorre com tanta frequência com outros tipos de arquivos.
+
+5 - Como usar os comandos git log e git diff para visualizar o histórico dos arquivos?
+	git log mostra todos os commits em um repositório
+	git diff mostra as alterações realizadas entre dois commits
+	Ambos os comandos podem ser usados em um terminal, dentro do repositório do projeto. 
+
+6 - De que modo o controle de versão pode dar a você mais segurança para fazer alterações que podem danificar algo?
+	O uso de controle de versão garante poder retornar a um ponto do código onde não havia a alteração danosa.
+
+7 - Agora que você já configurou a sua área de trabalho, você quer usar o Git para quê?
+	Ter mais controle e segurança sobre as alterações em projetos.
