@@ -1,0 +1,7 @@
+O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+	É criado o arquivo contendo os metadados dos arquvivos do diretório.
+	É preciso fazê-lo para transformar um diretório comum em um diretório do git
+Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+	A área de preparação serve para se adicionar os arquivos que farão parte do próximo commit, é util para casos em que o commit afete múltiplos arquivos.
+Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
+	Posso colocar os arquivos modificados na área de preparação até que as modificações realizadas sejam consideradas um alteração lógica para realizar um commit.
