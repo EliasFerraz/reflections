@@ -5,3 +5,5 @@ Em que se difere a área de preparação do diretório de trabalho e do reposit�
 	A área de preparação serve para se adicionar os arquivos que farão parte do próximo commit, é util para casos em que o commit afete múltiplos arquivos.
 Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
 	Posso colocar os arquivos modificados na área de preparação até que as modificações realizadas sejam consideradas um alteração lógica para realizar um commit.
+Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
+	Branches permitem criar uma ramificação do histórico de commits, permitindo manter organizado alterações que podem desviar ofoco original do código.
