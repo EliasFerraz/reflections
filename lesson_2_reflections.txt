@@ -7,3 +7,5 @@ Como você pode usar a área de preparação para garantir que tenha um commit p
 	Posso colocar os arquivos modificados na área de preparação até que as modificações realizadas sejam consideradas um alteração lógica para realizar um commit.
 Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
 	Branches permitem criar uma ramificação do histórico de commits, permitindo manter organizado alterações que podem desviar ofoco original do código.
+Como os diagramas ajudam a visualizar a estrutura de branches?
+	Permitem uma visualização da hierarquia dos commits, saber de onde o commit atual se originou
