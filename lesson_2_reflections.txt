@@ -9,3 +9,5 @@ Quais são algumas das situações em que branches seriam úteis para manter seu
 	Branches permitem criar uma ramificação do histórico de commits, permitindo manter organizado alterações que podem desviar ofoco original do código.
 Como os diagramas ajudam a visualizar a estrutura de branches?
 	Permitem uma visualização da hierarquia dos commits, saber de onde o commit atual se originou
+Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
+	Cria-se um único ramo contendo todas as modificações realizada nos dois branches. A visualização em "árvore" ajuda a compreender melhor o que está acontecendo e como posteriormente visualizar/comparar os commits anteriores.
