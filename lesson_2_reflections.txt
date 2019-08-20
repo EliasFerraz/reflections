@@ -11,3 +11,5 @@ Como os diagramas ajudam a visualizar a estrutura de branches?
 	Permitem uma visualização da hierarquia dos commits, saber de onde o commit atual se originou
 Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
 	Cria-se um único ramo contendo todas as modificações realizada nos dois branches. A visualização em "árvore" ajuda a compreender melhor o que está acontecendo e como posteriormente visualizar/comparar os commits anteriores.
+Quais são os prós e contras da mesclagem automática do Git v. sempre fazer mesclagens manualmente?
+	Mesclar automaticamente é muito util quando os conflitos são simples de resolver e agiliza o processo de mesclagem, entretanto quando há uma maior complexidade é interessante que a resolução de conflitos seja feita manualmente pois o programador terá um maior domínio sobre o contéúdo do arquivo e poderá decidir melhor o que manter.
