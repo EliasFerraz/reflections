@@ -3,3 +3,8 @@ Quando gostaria de usar um repositório remoto em vez de manter o trabalho local
 
 Por que você prefere efetuar pull de alterações manualmente do que deixar o Git atualizar-se automaticamente com o seu repositório remoto?
 	O pull manual garante que só irão ser baixadas alterações do repositório remoto quando forem convenientes.
+
+Descreva as diferenças entre bifurcações, clones e branches. Quando você usaria um e não os outros?
+	Bifurcações:Copia um repositório remoto para outro repositório remoto, incluindo o histórico de commits.
+	Clones: Copia todo o conteúdo de um repositório remoto para um repositório local incluindo o histórico de commits.
+	Branches: Cria uma ramificação na árvore de histórico de commits, permitindo outras versões de um mesmo projeto.
