@@ -11,3 +11,6 @@ Descreva as diferenças entre bifurcações, clones e branches. Quando você usa
 
 Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
 	Conhecer as alterações que foram realizadas e facilitar a mesclagem se necessário.
+
+Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais difícil?
+	Sem utilizar outros softwares de controle de versão, uma opção poderia ser por emails, enviando/recebendo arquivos e verificando as alterações realizadas, porém seria muito mais complicado e sujeito e menos seguro.
