@@ -14,3 +14,9 @@ Qual é o benefício de ter uma cópia do último estado conhecido do remoto arm
 
 Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais difícil?
 	Sem utilizar outros softwares de controle de versão, uma opção poderia ser por emails, enviando/recebendo arquivos e verificando as alterações realizadas, porém seria muito mais complicado e sujeito e menos seguro.
+
+#Reflexão: quando usar um branch separado
+#Você acabou de ver que o fluxo de trabalho ao fazer alterações em um branch separado é mais complexo que trabalhar diretamente em um #master, principalmente quando você precisa se atualizar com as alterações feitas por outras pessoas. Em vez de efetuar pull e push, você #precisa efetuar pull das alterações no branch master local, mesclar o master local no branch (different-oil, no nosso caso), efetuar push #no branch para o remoto e, finalmente, mesclar o branch no master, localmente ou no GitHub.
+
+Quando você gostaria de fazer alterações em um branch separado, e não diretamente no master? Quais são os benefícios de cada abordagem?
+	Quando eu não estiver seguro das modificações realizadas ou quando outra pessoa for revisar o meu código.
